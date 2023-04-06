@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF6E96&center=true&vCenter=true&multiline=true&width=435&height=50&lines=%F0%9F%91%8B+Hi!+I'm+Thiago!" alt="Thiago's welcome message" />
 </p>
 
-## Things I work with
+## Some things I work with
 
 <div style="display: flex;">
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" />
