@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF6E96&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%91%8B+Hi!+I'm+Thiago!;Welcome+to+my+profile!" alt="Thiago's welcome message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF6E96&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%91%8B+Hi!+I'm+Thiago!" alt="Thiago's welcome message" />
 </p>
 
 ## Things I work with
