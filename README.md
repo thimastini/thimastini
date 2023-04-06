@@ -4,7 +4,7 @@
 
 ## Things I work with
 
-<div>
+<div style="display: flex; align-items: center;">
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" />
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
   <img height="48em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" />
@@ -30,7 +30,7 @@
 
 ## Reach me
 
-<div>
+<div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/thiagomastini/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Thiago's LinkedIn profile" />
   </a>
@@ -38,7 +38,7 @@
 
 ## Github stats
 
-<div>
+<div style="display: flex; align-items: center;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thimastini&count_private=true&show_icons=true&theme=dracula" alt="Thiago's Github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimastini&layout=compact&langs_count=10&theme=dracula" alt="Thiago's most used languages" />
   <!-- <img height="160em" width="30%" src="https://streak-stats.demolab.com/?user=thimastini&theme=dracula" alt="Thiago's GitHub streaks" /> -->
@@ -53,6 +53,6 @@
 <br />
 <br />
 
-<div>
+<div style="display: flex; align-items: center;">
   <img src="https://hits.dwyl.com/thimastini/thimastini.svg?style=flat-square&show=unique" alt="Thiago's profile views" />
 </div>
