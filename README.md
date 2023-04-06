@@ -37,10 +37,10 @@
   </a>
 </div>
 
-## Github stats
+## GitHub stats
 
 <div style="display: flex;">
-  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=thimastini&count_private=true&show_icons=true&theme=dracula" alt="Thiago's Github stats" />
+  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api?username=thimastini&count_private=true&show_icons=true&theme=dracula" alt="Thiago's GitHub stats" />
   <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimastini&layout=compact&langs_count=10&theme=dracula" alt="Thiago's most used languages" />
   <!-- <img height="160em" width="30%" src="https://streak-stats.demolab.com/?user=thimastini&theme=dracula" alt="Thiago's GitHub streaks" /> -->
 </div>
