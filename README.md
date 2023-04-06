@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF6E96&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%91%8B+Heya!+I'm+Thiago!;Welcome+to+my+profile!" alt="Thiago's welcome message" />
-  <br />
-  <img src="https://hits.dwyl.com/thimastini/thimastini.svg?style=flat-square&show=unique" alt="Thiago's profile views" />
 </p>
 
 <div style="display: flex; align-items: center;">
@@ -15,3 +13,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thimastini/thimastini/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/thimastini/thimastini/output/github-snake.svg" />
 </picture>
+
+<br />
+<br />
+
+<div>
+  <img src="https://hits.dwyl.com/thimastini/thimastini.svg?style=flat-square&show=unique" alt="Thiago's profile views" />
+</div>
