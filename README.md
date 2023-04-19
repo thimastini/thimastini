@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF6E96&center=true&vCenter=true&multiline=true&width=435&height=50&lines=%F0%9F%91%8B+Hi!+I'm+Thiago!" alt="Thiago's welcome message" />
 </p>
 
+<p>
+Since I was a child, I've had a passion for technology. I loved tinkering with old electronic devices, disassembling and reassembling them to try to understand how they worked. This curiosity led me to study Electrotechnics in technical school, where I had my first contact with programming through the Assembly language.
+
+From that moment on, my fascination with programming only grew. I continued my studies, diving into languages like C++ and VB6, before pursuing a degree in Systems Analysis and Development at FATEC. During my education, I began my career as a web developer, working with PHP and .NET. It was during this time that I discovered the world of mobile development, which became a new area of interest for me.
+
+Currently, I am a lifelong learner and always seeking to improve my skills and knowledge. I completed a postgraduate course in Software Architecture at Unyleya and am always looking for new courses and training to expand my experience. Currently, I am focused on backend and mobile development, working with technologies like .NET, Node.js, Kotlin, and Flutter. I am also exploring the world of DevOps and its role in software development.
+
+Throughout my career, I have always maintained my curiosity and desire to learn. An example of this was when I worked as a backend developer at a company and offered to develop an Android application, even though I had no prior experience in mobile development. To do this, I studied Kotlin and learned about architecture, usability, and accessibility. The end result was a functional application that helped me grow personally and professionally, motivating me to explore new technologies in mobile development, such as Flutter.
+<p>
+
 ## Some things I work with
 
 <div style="display: flex;">
